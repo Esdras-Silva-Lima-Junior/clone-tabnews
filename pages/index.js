@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Hello world!!! I'm Esdras Silva and I'm testing a course.</h1>;
+  return <h1>Hi, I'm Esdras Silva de Lima Junior and I am a student of programming, I love all linked with it and I love learn everything about it.</h1>;
 }
 
 export default Home;
